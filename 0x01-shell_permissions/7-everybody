@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod ugo+x hello >> 7-everybody
-echo chmod ugo+x hello
+chmod ugo+x hello
